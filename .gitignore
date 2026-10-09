@@ -1,0 +1,26 @@
+﻿# Variables de entorno
+.env
+**/.env
+
+# Entornos virtuales de Python
+.venv/
+**/.venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Dependencias de Node
+node_modules/
+**/node_modules/
+frontend/dist/
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos del sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
